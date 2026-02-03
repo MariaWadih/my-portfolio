@@ -64,7 +64,7 @@ const About = () => {
                         </motion.div>
                     </motion.div>
 
-                    <div className="space-y-6 lg:mt-4">
+                    <div className="flex flex-col gap-8 lg:mt-4">
                         {highlights.map((item, index) => (
                             <motion.div
                                 key={index}
