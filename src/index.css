@@ -1671,7 +1671,7 @@ body {
   max-width: 560px;
   color: var(--hero-text);
   font-size: clamp(2.45rem, 3.6vw, 3.65rem);
-  line-height: 1.14;
+  line-height: 1.1;
 }
 
 .hero-copy h1 span {
@@ -1680,14 +1680,14 @@ body {
 
 .hero-copy p {
   max-width: 520px;
-  margin-top: 34px;
+  margin-top: 28px;
   color: var(--hero-muted);
   font-size: clamp(0.96rem, 1.2vw, 1.06rem);
   line-height: 1.58;
 }
 
 .hero-actions {
-  margin-top: 42px;
+  margin-top: 34px;
 }
 
 .button {
